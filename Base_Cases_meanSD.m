@@ -4,6 +4,8 @@
 % Log Normal Cumulative Distribution Function from mean
 % and standard deviation obtained from discrete model
 
+% This script is used to generate 3 base case curves
+
 m_norm_A = 1.9000;    % Company A(high resilience) Normalised & scaled mean
 s_norm_A = 0.9990;    % Company A(high resilience) Normalised std deviation
 m_norm_B = 1.7998;    % Company B(moderate resilience) Normalised & scaled mean
