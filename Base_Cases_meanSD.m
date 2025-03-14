@@ -2,7 +2,7 @@
 
 % MATLAB script to generate fragility curves using
 % Log Normal Cumulative Distribution Function from mean
-% and standard deviation ontained from discrete model
+% and standard deviation obtained from discrete model
 
 m_norm_A = 1.9000;    % Company A(high resilience) Normalised & scaled mean
 s_norm_A = 0.9990;    % Company A(high resilience) Normalised std deviation
