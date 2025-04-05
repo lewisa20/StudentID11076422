@@ -9,7 +9,19 @@ Repository for documents and code.
 # List of MATLAB Scripts
 
 - script 1
+  - Plots barchart of estimated UK cost of cybercrime. Data source: 
 - script 2
+  - Plots barchart of estimated global cost of cybercrime. Data source:
+- script 3
+  - Plots barchart of known succesful cyber attacks against energy sector. Data source:
+- script 4
+  - Plots barchart of CVE vulnerabilities of programmable logic controllers. Data source:
+- script 5
+  - dezcription
+- script 6
+  - description
+- script 7
+  - description
 
 # List of Excel Files
 
@@ -21,4 +33,9 @@ Repository for documents and code.
   - Statistical model inputs/outputs with low resilience company performing worse against CAF than in set 1.
 
 # List of Diagrams
-
+- diagram 1
+  - description
+- diagram 2
+  - description
+- diagram 3
+  - description
