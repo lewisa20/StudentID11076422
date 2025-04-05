@@ -1,2 +1,6 @@
-# FragilityCurveMATLAB
-MATLAB code for 3rd Year Individual Project
+# 3rd Year Individual Project
+# Adam Lewis
+
+# Repo for MATLAB Scripts
+
+
