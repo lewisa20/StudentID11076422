@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.11">
+  <diagram name="Page-1" id="KI2gGL5kC-YsY-Ea6KK4">
+    <mxGraphModel dx="1050" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MJ7o2uk6St4U2uMvcDpp-1" value="CAF Objective B" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="20" y="270" width="770" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MJ7o2uk6St4U2uMvcDpp-2" value="&lt;div&gt;Principle: B1 &lt;/div&gt;&lt;div&gt;Service Protection Policies, Processes and Procedures&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="20" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MJ7o2uk6St4U2uMvcDpp-3" value="&lt;div&gt;Principle: B2&lt;/div&gt;&lt;div&gt;Identity and Access Control&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="150" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MJ7o2uk6St4U2uMvcDpp-4" value="&lt;div&gt;Principle: B3&lt;/div&gt;&lt;div&gt;Data Security&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MJ7o2uk6St4U2uMvcDpp-5" value="&lt;div&gt;Principle: B4&lt;/div&gt;&lt;div&gt;System Security&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="410" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MJ7o2uk6St4U2uMvcDpp-6" value="&lt;div&gt;Principle: B5&lt;/div&gt;&lt;div&gt;Resilient networks and systems&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="540" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MJ7o2uk6St4U2uMvcDpp-7" value="&lt;div&gt;Principle: B6&lt;/div&gt;&lt;div&gt;Staff awareness&lt;/div&gt;&lt;div&gt;and training&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="670" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MJ7o2uk6St4U2uMvcDpp-8" value="&lt;div&gt;IGP Group B1.a&lt;/div&gt;&lt;div&gt;Policy, Process and Procedure Development&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MJ7o2uk6St4U2uMvcDpp-9" value="&lt;div&gt;IGP Group B2.a&lt;/div&gt;&lt;div&gt;Identity Verification, Authentication and Authorisation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MJ7o2uk6St4U2uMvcDpp-10" value="&lt;div&gt;IGP Group B2.c&lt;/div&gt;&lt;div&gt;Privileged User Management&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MJ7o2uk6St4U2uMvcDpp-11" value="&lt;div&gt;IGP Group B2.d Identity and Access Management&lt;/div&gt;&lt;div&gt;(IdAM)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MJ7o2uk6St4U2uMvcDpp-12" value="IGP Group B4.d. Vulnerability Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MJ7o2uk6St4U2uMvcDpp-13" value="&lt;div&gt;IGP Group B5.b Design for&lt;/div&gt;&lt;div&gt;Resilience&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MJ7o2uk6St4U2uMvcDpp-14" value="&lt;div&gt;IGP Group B1.b&lt;/div&gt;&lt;div&gt;Policy, Process and Procedure Implementation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MJ7o2uk6St4U2uMvcDpp-15" value="&lt;div&gt;IGP Group B2.b&lt;/div&gt;&lt;div&gt;Device&lt;/div&gt;&lt;div&gt;Management&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MJ7o2uk6St4U2uMvcDpp-16" value="&lt;div&gt;IGP Group B3.a&lt;/div&gt;&lt;div&gt;Understanding&lt;/div&gt;&lt;div&gt;Data&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MJ7o2uk6St4U2uMvcDpp-17" value="&lt;div&gt;IGP Group B3.b&lt;/div&gt;&lt;div&gt;Data in Transit&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MJ7o2uk6St4U2uMvcDpp-18" value="IGP Group B3.c Stored Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MJ7o2uk6St4U2uMvcDpp-19" value="IGP Group B3.d Mobile Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MJ7o2uk6St4U2uMvcDpp-20" value="IGP Group B3.e Media/Equipment Sanitisation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MJ7o2uk6St4U2uMvcDpp-21" value="IGP Group B4.a Secure by Design" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MJ7o2uk6St4U2uMvcDpp-22" value="&lt;div&gt;IGP Group B4.b Secure&lt;/div&gt;&lt;div&gt;Configuration&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MJ7o2uk6St4U2uMvcDpp-23" value="&lt;div&gt;IGP Group B4.c Secure&lt;/div&gt;&lt;div&gt;Management&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MJ7o2uk6St4U2uMvcDpp-24" value="IGP Group B5.a Resilience Preparation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MJ7o2uk6St4U2uMvcDpp-25" value="IGP Group B5.c Backups" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MJ7o2uk6St4U2uMvcDpp-26" value="IGP Group B6.a Cyber Security Culture" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MJ7o2uk6St4U2uMvcDpp-27" value="IGP Group B6.b Cyber Security Training" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

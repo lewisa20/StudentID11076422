@@ -1,0 +1,112 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.2.7">
+  <diagram name="Page-1" id="Ez_GniR0DMMZX4M1YJaZ">
+    <mxGraphModel dx="994" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uC5jw0JFEox_cR-SN-zf-1" value="Create a quantitative model measuring the cyber resilience of an organisation. Higher performance against the model correlates with improved cyber resilience" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="109" y="140" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="uC5jw0JFEox_cR-SN-zf-2" value="Establish a Model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="109" y="70" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uC5jw0JFEox_cR-SN-zf-3" value="Application of Fragility Curve" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
+          <mxGeometry x="269" y="70" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uC5jw0JFEox_cR-SN-zf-4" value="&lt;div&gt;Mapping onto a substation model&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="429" y="70" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uC5jw0JFEox_cR-SN-zf-5" value="Event Modelling of escalating attack scenarios" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
+          <mxGeometry x="589" y="70" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uC5jw0JFEox_cR-SN-zf-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=5.855172413793103;curved=1;width=12.413793103448276;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239" y="99.6" as="sourcePoint" />
+            <mxPoint x="269" y="99.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uC5jw0JFEox_cR-SN-zf-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=5.855172413793103;curved=1;width=12.413793103448276;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399" y="99.72" as="sourcePoint" />
+            <mxPoint x="429" y="99.72" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uC5jw0JFEox_cR-SN-zf-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=5.855172413793103;curved=1;width=12.413793103448276;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="559" y="99.72" as="sourcePoint" />
+            <mxPoint x="589" y="99.72" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uC5jw0JFEox_cR-SN-zf-9" value="&lt;div&gt;Metrics from model generate a fragility curve showing probability of system comprimise for increasing levels of cyber-attack&lt;/div&gt;&lt;div&gt;severity &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="269" y="140" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="uC5jw0JFEox_cR-SN-zf-10" value="&lt;div&gt;Incorporate a substation with the fragility curve showing the increasing probability&lt;/div&gt;&lt;div&gt;of comprimise for attacks deeper within the substation &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="429" y="140" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="uC5jw0JFEox_cR-SN-zf-11" value="&lt;div&gt;Define specific cyber event scenarios of escalating severity&lt;/div&gt;&lt;div&gt;and use the fragility curve to assess resilience&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="589" y="140" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="uC5jw0JFEox_cR-SN-zf-12" value="The Purdue Model is used in this study to model resilience of the substation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="429" y="280" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uC5jw0JFEox_cR-SN-zf-13" value="Fragility curve is generated using log normal cumulative distribution function" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="269" y="280" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uC5jw0JFEox_cR-SN-zf-14" value="&lt;div&gt;Measured by&lt;/div&gt;&lt;div&gt;assessing performance&lt;/div&gt;&lt;div&gt;against CAF&lt;/div&gt;&lt;div&gt;Objective B&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="109" y="280" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uC5jw0JFEox_cR-SN-zf-15" value="Attack scenarios for Industrial Control Systems are used to define attack path events" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="589" y="280" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uC5jw0JFEox_cR-SN-zf-16" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="uC5jw0JFEox_cR-SN-zf-1" target="uC5jw0JFEox_cR-SN-zf-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="209" y="190" as="sourcePoint" />
+            <mxPoint x="259" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uC5jw0JFEox_cR-SN-zf-17" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uC5jw0JFEox_cR-SN-zf-14" target="uC5jw0JFEox_cR-SN-zf-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="279" y="260" as="sourcePoint" />
+            <mxPoint x="329" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uC5jw0JFEox_cR-SN-zf-18" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="uC5jw0JFEox_cR-SN-zf-9" target="uC5jw0JFEox_cR-SN-zf-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="279" y="220" as="sourcePoint" />
+            <mxPoint x="329" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uC5jw0JFEox_cR-SN-zf-19" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uC5jw0JFEox_cR-SN-zf-13" target="uC5jw0JFEox_cR-SN-zf-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="279" y="220" as="sourcePoint" />
+            <mxPoint x="329" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uC5jw0JFEox_cR-SN-zf-20" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="uC5jw0JFEox_cR-SN-zf-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="494" y="140" as="sourcePoint" />
+            <mxPoint x="489" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uC5jw0JFEox_cR-SN-zf-21" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uC5jw0JFEox_cR-SN-zf-12" target="uC5jw0JFEox_cR-SN-zf-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="439" y="240" as="sourcePoint" />
+            <mxPoint x="489" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uC5jw0JFEox_cR-SN-zf-22" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="uC5jw0JFEox_cR-SN-zf-11" target="uC5jw0JFEox_cR-SN-zf-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="559" y="240" as="sourcePoint" />
+            <mxPoint x="609" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uC5jw0JFEox_cR-SN-zf-23" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uC5jw0JFEox_cR-SN-zf-15" target="uC5jw0JFEox_cR-SN-zf-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="559" y="270" as="sourcePoint" />
+            <mxPoint x="609" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
