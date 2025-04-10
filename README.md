@@ -66,17 +66,21 @@ Repository for documents and code.
   - Statistical model inputs/outputs with deteriorating CAF performance than LR-1.
 
 # List of Diagrams
-- Chapter_3_1_Industroyer.drawio
-  - description
 - Chapter_4_1_CAF_Objective_B.drawio
-  - description
+  - A block diagram overview of CAF Objective B
+  - Fig 5 in the report
 - Chapter_4_2_CAF_Assessment_Flowchart.drawio
-  - description
+  - A flowchart depicting the process of asessment against CAF
+  - Fig 6 in the report
 - Chapter_5_1_Methodology_Block_Diagram.drawio
-  - description
+  - A block diagram giving a high level overview of the methodology
+  - Fig 7 in the report
 - Chapter_5_2_Purdue_Model.drawio
-  - description
+  - A block diagram depicting a Purdue model of an IEC 61850 substation
+  - Fig 10 in the report
 - Chapter_6_1_Inputs_to_model.drawio
-  - description
+  - An annotated snapshot showing a representative example of high perfromance in the survey model inputs and calculations
+  - Fig 13 in the report
 - Chapter_6_2_Inputs_to_model_Failed.drawio
-  - descri
+  - An annotated snapshot showing a representative example of low performace in  the survey model inputs and calculations
+  - Fig 14 in the report
